@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "concurrently": "^9.1.1",
-    "patch-package": "^8.0.0"
+    "patch-package": "^8.0.1"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
